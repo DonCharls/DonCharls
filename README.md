@@ -41,10 +41,7 @@ I'm a fresh grad from the Philippines with a passion for **mobile development**,
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DonCharls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
+<img height="160" src="https://streak-stats.demolab.com?user=DonCharls&theme=tokyonight&hide_border=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonCharls&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
