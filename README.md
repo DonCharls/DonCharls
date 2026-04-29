@@ -37,12 +37,15 @@ I'm a fresh grad from the Philippines with a passion for **mobile development**,
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DonCharls&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonCharls&layout=compact&theme=tokyonight&hide_border=true" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DonCharls&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DonCharls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonCharls&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
