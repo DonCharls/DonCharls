@@ -44,7 +44,7 @@ I'm a fresh grad from the Philippines with a passion for **mobile development**,
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DonCharls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -66,7 +66,7 @@ When I'm not building apps, you'll find me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qubeasia12345@gmail.com)
 
 </div>
 
