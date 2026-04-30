@@ -1,79 +1,72 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Don%20Charls%20M.%20Bibat&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%E2%80%A2%20App%20Builder%20%E2%80%A2%20Aspiring%20Game%20Dev&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=230&section=header&text=Don%20Charls%20M.%20Bibat&fontSize=50&fontColor=A78BFA&desc=Mobile%20Developer%20%7C%20Cinematographer%20%7C%20Tech%20Explorer&descAlignY=68&descSize=18&descColor=ffffff&animation=twinkling" />
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+apps+that+make+a+difference+%F0%9F%93%B1;Flutter+%26+React+Native+developer;Leveling+up+one+commit+at+a+time+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+fluid+experiences+in+Flutter;Professional+Video+Editor+%26+Cinematographer;Life+won't+stop+if+you+stop.+Keep+building.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👤 The Profile
+## 🌌 The Mission
 
-I'm a fresh grad from the Philippines with a passion for **mobile development**, **app building**, and diving into **game development**. I build things that are not just functional — they should feel good to use and mean something to the people who use them.
+I am a BSIT graduate and mobile developer based in the Philippines, driven by the philosophy that technology waits for no one. I specialize in building applications that solve overlooked problems with a focus on absolute fluidity and high-end visual design.
 
-- 🎮 **Next Build:** A Consistency App *(details coming soon)*
-- 🌱 **Learning:** Game development & deepening my Flutter expertise
-- 🤝 **Open to:** Collaborations, opportunities & freelance work
-- 📍 **Based in:** Cebu, Philippines
-
----
-
-## 🛠️ Tech Stack
-
-| Domain | Technologies |
-|---|---|
-| 📱 **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
-| 💻 **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🎮 **Game Dev** | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
-| 🎨 **Creative** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white) |
-| 🔧 **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+*   **The Vibe:** Dark mode, sci-fi minimalism, and a deep fascination with space.
+*   **Philosophy:** "Life won't stop if you stop." I prefer to stay ahead of the curve, mastering new eras of tech before they become the norm.
+*   **The Edge:** My background in professional cinematography allows me to design UI/UX that isn't just functional—it's cinematic.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Engineering
+
+### HearingHands (FSL Learning Application)
+I architected and executed this project solo, managing the entire lifecycle from system analysis to the final production of learning materials.
+*   **Impact:** A mobile tool for hearing users to learn Filipino Sign Language (FSL).
+*   **Technical Stack:** Built with **Flutter**, utilizing **JSON asset bundles** for lightning-fast local data handling and `youtube_player_flutter` for seamless video integration.
+
+---
+
+## 🛠️ The Tech Arsenal
+
+### 💻 Development & Logic
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![AntiGravity](https://img.shields.io/badge/AntiGravity_IDE-1E1E1E?style=flat-square&logo=code&logoColor=white)
+
+### 🎬 Creative & Hardware
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+*   **Hardware:** Optimized for mobile videography using the **Redmi Note 15** for "pure signal" performance and color accuracy.
+
+---
+
+## 📊 Activity Transmission
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DonCharls&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DonCharls&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📡 Let's Work Together
+
+I am currently open to opportunities as a **Mobile Developer, Virtual Assistant (VA), or Freelance Content Creator**. Let's build the future together.
+
+<div align="center">
+
+<a href="mailto:qubeasia12345@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Pending-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="viber://chat?number=+639XXXXXXXXX">
+  <img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white" />
+</a>
+
+</div>
 
 <br/>
-
-<img height="160" src="https://streak-stats.demolab.com?user=DonCharls&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonCharls&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-## 🎨 Beyond the Code
-
-When I'm not building apps, you'll find me:
-
-- 📸 **Shooting frames** — Photography, videography & cinematography
-- 🎬 **Editing** — Photo & video post-production
-- 🎮 **Casual gaming** — Unwinding with a good game
-
----
-
-## 📬 Let's Connect
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qubeasia12345@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
-
-*Thanks for visiting! If you find my work interesting, drop a ⭐ on any repo — it means a lot!*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=100&section=footer&reversal=true" />
 </div>
