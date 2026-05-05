@@ -22,28 +22,13 @@ I am a BSIT graduate and developer based in the Philippines, driven by the philo
 
 <div align="center">
 
-<br/>
-
-**Frontend & Design**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma&theme=dark" />
-</a>
-
-<br/>
-
-**Backend & Database**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=express,prisma,postgresql&theme=dark" />
-</a>
-
-<br/>
-
-**Tools & Media**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,unity,pr,lr&theme=dark" />
-</a>
-
-<br/>
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Logic & Languages** | <img src="https://skillicons.dev/icons?i=dart,ts,js,html,css&theme=dark" /> |
+| **Frameworks & Libs** | <img src="https://skillicons.dev/icons?i=flutter,react,express&theme=dark" /> |
+| **Cloud & Persistence** | <img src="https://skillicons.dev/icons?i=firebase,postgres,prisma&theme=dark" /> |
+| **Creative Production** | <img src="https://skillicons.dev/icons?i=figma,pr,unity&theme=dark" /> |
+| **Development Suite** | <img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" /> |
 
 </div>
 
@@ -53,12 +38,15 @@ I am a BSIT graduate and developer based in the Philippines, driven by the philo
 
 <div align="center">
 
-<!-- WakaTime Stats: Shows coding time and productivity instead of just commits -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=DonCharls&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+
+<!-- Top Languages: Proves your polyglot skills across JS/TS/Dart -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonCharls&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonCharls&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<!-- GitHub Streak: Shows consistency and commitment -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DonCharls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
