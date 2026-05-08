@@ -40,10 +40,6 @@ I am a BSIT graduate and developer based in the Philippines, driven by the philo
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonCharls&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DonCharls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
