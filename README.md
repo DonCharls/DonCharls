@@ -14,7 +14,7 @@ I am a BSIT graduate and developer based in the Philippines, driven by the philo
 
 *   **The Vibe:** Dark mode, sci-fi minimalism, and a deep fascination with space.
 *   **Philosophy:** "Life won't stop if you stop." I prefer to stay ahead of the curve, mastering new eras of tech before they become the norm.
-*   **The Edge:** My background in professional cinematography allows me to design UI/UX that isn't just functional—it's cinematic.
+*   **The Edge:** My background in professional cinematography allows me to design UI/UX that isn't just functional but cinematic.
   
 ---
 
