@@ -10,7 +10,7 @@
 
 ## 🌌 The Mission
 
-I am an IT graduate and developer based in the Philippines, driven by the philosophy that technology waits for no one. I specialize in building end-to-end digital solutions. From robust backend logic to high-performance user interfaces.
+I am an IT graduate and developer based in the Philippines. I specialize in building end-to-end digital solutions. From robust backend logic to high-performance user interfaces.
   
 ---
 
