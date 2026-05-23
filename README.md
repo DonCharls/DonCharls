@@ -14,7 +14,7 @@ I am an IT graduate and developer based in the Philippines. I specialize in buil
   
 ---
 
-## 🛠️ The Tech Arsenal
+## 🛠️ The Tech
 
 <div align="center">
 
