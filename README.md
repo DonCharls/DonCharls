@@ -23,7 +23,7 @@ I am an IT graduate and developer based in the Philippines, focused on building 
 | **Logic & Languages** | <img src="https://skillicons.dev/icons?i=python,java,dart,js,ts&theme=dark" /> |
 | **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=django,laravel,nodejs,express,flutter,react&theme=dark" /> |
 | **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,prisma&theme=dark" /> |
-| **UI/UX & Environments** | <img src="https://skillicons.dev/icons?i=figma,unity,xampp,vscode&theme=dark" /> |
+| **UI/UX & Environments** | <img src="https://skillicons.dev/icons?i=figma,unity,vscode&theme=dark" /> |
 | **Version Control & Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" /> |
 
 </div>
