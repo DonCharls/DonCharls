@@ -48,14 +48,14 @@ I am currently open to entry-level opportunities and collaborations as a **Full-
 
 <div align="center">
 
-<a href="mailto:doncharlsbibat@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:doncharlsbibat@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://linkedin.com/in/your-profile-url-here">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/don-charls-bibat-6a178440b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="viber://chat?number=+639982616973">
-  <img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white" />
+<a href="https://msng.link/o/?639982616973=vi" target="_blank">
+  <img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white" alt="Viber" />
 </a>
 
 </div>
