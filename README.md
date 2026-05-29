@@ -44,7 +44,7 @@ I am an IT graduate and developer based in the Philippines, focused on building 
 
 ## 📡 Let's Connect
 
-I am currently open to entry-level opportunities and collaborations as a **Full-Stack Developer, Backend Engineer, or System Analyst**. Let's build something great together.
+I am open to entry-level opportunities and collaborations as a **Full-Stack Developer, Backend Engineer, or System Analyst**. Let's build something great together.
 
 <div align="center">
 
