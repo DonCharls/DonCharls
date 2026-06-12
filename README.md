@@ -20,7 +20,7 @@ Software developer based in the Philippines, focused on building functional, end
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Logic & Languages** | <img src="https://skillicons.dev/icons?i=dart,ts,js,css,html,java&theme=dark" /> |
+| **Logic & Languages** | <img src="https://skillicons.dev/icons?i=dart,ts,js,css,html&theme=dark" /> |
 | **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express&theme=dark" /> |
 | **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,prisma&theme=dark" /> |
 | **UI/UX & Environments** | <img src="https://skillicons.dev/icons?i=figma,unity,vscode&theme=dark" /> |
