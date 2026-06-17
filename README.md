@@ -44,7 +44,7 @@ Software developer based in the Philippines, focused on building functional, end
 
 ## 📡 Let's Connect
 
-I am open to entry-level opportunities and collaborations as a **Full-Stack Developer or System Analyst**. Let's build something great together.
+I am open to entry-level opportunities and collaborations as a **Software Developer or System Analyst**. Let's build something great together.
 
 <div align="center">
 
