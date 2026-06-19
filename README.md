@@ -10,7 +10,7 @@
 
 ## 🌌 The Mission
 
-Software developer based in the Philippines, focused on building functional, end-to-end digital solutions. I enjoy bridging the gap between backend logic and responsive user interfaces.
+Software developer based in the Cebu, Philippines, focused on building functional, end-to-end digital solutions. I enjoy bridging the gap between backend logic and responsive user interfaces.
   
 ---
 
