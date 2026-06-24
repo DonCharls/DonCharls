@@ -36,7 +36,7 @@ Software developer based in the Cebu, Philippines. Focused on building functiona
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DonCharls&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DonCharls&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
