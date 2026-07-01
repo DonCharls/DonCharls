@@ -44,7 +44,7 @@ Software developer based in the Cebu, Philippines. Focused on building functiona
 
 ## 📡 Let's Connect
 
-I am open to entry-level or intermediate opportunities and collaborations as a **Software Developer or System Analyst**. Let's build something great together.
+I'm open to entry-level or intermediate opportunities and collaborations as a **Software Developer or System Analyst**. Let's build something great together.
 
 <div align="center">
 
