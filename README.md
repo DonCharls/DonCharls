@@ -38,9 +38,6 @@ Software Developer based in the Cebu, Philippines. Focused on building functiona
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DonCharls&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DonCharls&theme=dracula" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DonCharls&theme=dracula" />
-
 </div>
 
 ---
