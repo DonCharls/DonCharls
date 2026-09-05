@@ -23,7 +23,7 @@ Software Developer based in the Cebu, Philippines. Focused on building functiona
 | **Logic & Languages** | <img src="https://skillicons.dev/icons?i=dart,ts,js,css,html&theme=dark" /> |
 | **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,tailwind&theme=dark" /> |
 | **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,prisma&theme=dark" /> |
-| **UI/UX & Environments** | <img src="https://skillicons.dev/icons?i=figma,unity,vscode&theme=dark" /> |
+| **UI/UX & Environments** | <img src="https://skillicons.dev/icons?i=figma,vscode,unity&theme=dark" /> |
 | **Version Control & Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,npm&theme=dark" /> |
 
 </div>
